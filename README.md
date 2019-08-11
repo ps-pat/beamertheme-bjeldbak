@@ -1,3 +1,5 @@
+# Yo!
+
 # beamertheme-bjeldbak
 A simple beamer theme. I'm aiming for a minimalistic look.
 
